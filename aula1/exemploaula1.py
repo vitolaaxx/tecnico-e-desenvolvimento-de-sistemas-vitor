@@ -1,0 +1,6 @@
+nome = input("digite seu nome: ")
+email = input("digite seu email: ")
+senha = input("digite sua senha: ")
+print(f'nome do usuario {nome} ')
+print(f'email do usuario {email} ')
+print(f'senha do usuario  "{senha}" ')
